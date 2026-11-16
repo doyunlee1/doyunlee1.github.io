@@ -23,9 +23,9 @@ repository               : "doyunlee1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Doyun Lee"
-  pronouns         : "she/her"  
+  pronouns         : "She/Her"  
   bio              : "Ph.D. Candidate in Political Science, University of Arizona"
   location         : "Tucson, Arizona"
   employer         : "University of Arizona"
