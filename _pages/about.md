@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 Welcome! I'm a Ph.D. candidate in the School of Government and Public Policy at the University of Arizona. 
 
 My research lies at the intersection of political communication and political psychology, with a focus on elite rhetoric, campaign advertising, emotions, and affective polarization. Methodologically, I use survey experiments, observational surveys, and text analysis. 
