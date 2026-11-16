@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Doyun Lee / Doyun Lee"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Doyun Lee"
 title_separator          : "-"
 name                     : &name "Doyun Lee"
 description              : &description "Doyun's Academic Website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "doyunlee1.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Doyun Lee"
   pronouns         : "she/her"  
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate at the School of Government and Public Policy, University of Arizona"
   location         : "Tucson, Arizona"
-  employer         : 
+  employer         : "University of Arizona"
   uri              : # URL
   email            : "doyunl@arizona.edu" 
 
