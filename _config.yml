@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Doyun Lee"
 title_separator          : "-"
 name                     : &name "Doyun Lee"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Doyun Lee"
   pronouns         : "she/her"  
-  bio              : "Ph.D. Candidate at the School of Government and Public Policy, University of Arizona"
+  bio              : "Ph.D. Candidate in Political Science, University of Arizona"
   location         : "Tucson, Arizona"
   employer         : "University of Arizona"
   uri              : # URL
