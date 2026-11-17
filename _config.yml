@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Doyun Lee"
   pronouns         : "She/Her"  
-  bio              : "Ph.D. Candidate in Political Science, University of Arizona"
-  location         : "Tucson, Arizona"
+  bio              : "Ph.D. Candidate in Political Science"
   employer         : "University of Arizona"
+  location         : "Tucson, Arizona"
   uri              : # URL
   email            : "doyunl@arizona.edu" 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "linkedin.com/in/doyun-lee-b02737446"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
