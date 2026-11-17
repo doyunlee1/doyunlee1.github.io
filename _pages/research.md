@@ -5,12 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Interests
+## Research Agenda
 
-My research interests include ...
+My research lies at the intersection of political communication, political psychology, and American politics, with a particular focus on elite rhetoric, campaign advertising, emotions, and affective polarization. My broader research agenda seeks to understand both the strategic and psychological motivations behind elites' rhetorical choices and the consequences of these choices for democratic attitudes and behavior. I examine when and why politicians employ different rhetorical strategies, including variations in tone, presidential endorsements, and emotional appeals, and how these strategies influence voters' attitudes toward political opponents, political engagement, political cynicism, and political trust. I also investigate the psychological mechanisms underlying voters' responses to elite rhetoric, specifically the role of emotions as mediators or moderators, and how susceptibility to political messages varies across individuals.
+
 
 ## Dissertation Project
 
+My dissertation, *"When Elites Go Low: The Incentives and Democratic Consequences of Incivility,"* examines the motivations behind politicians' use of uncivil rhetoric and its downstream consequences. It addresses two central questions: (1) Why do politicians choose uncivil rhetoric over civil but negative rhetoric, even when voters generally disapprove of incivility? And (2) how does repeated exposure to uncivil rhetoric affect voters' political trust and engagement, compared to a single exposure?
+
+Across three chapters, I employ supervised machine learning, a survey of U.S. state legislators, and survey experiments. As part of this project, I develop a Transformer-based text classifier to distinguish among uncivil-negative, civil-negative, and neutral or positive rhetoric in Twitter posts by members of the U.S. House of Representatives during the 116th and 117th Congresses. The dissertation investigates the strategic incentives that lead politicians to employ uncivil rather than civil but negative rhetoric, with particular attention to how these incentives vary with politicians' levels of dogmatism. It also demonstrates that repeated exposure to uncivil rhetoric affects voters' political trust and engagement differently from a one-time exposure. I expect to defend my dissertation in May 2028.
 
 
 ## Working Papers
@@ -34,8 +38,6 @@ Although Americans tend to tolerate violations of specific democratic norms when
   </p>
 </details>
 
-<br>
-
 ### "Mobilized or Demobilized? Affective Polarization and Repertoires of Political Participation." (Solo-Authored)
 
 <span style="display: inline-block;
@@ -54,8 +56,6 @@ Although Americans tend to tolerate violations of specific democratic norms when
 Does affective polarization mobilize or demobilize political participation? Existing research generally finds that affective polarization promotes political participation, but this conclusion may obscure heterogeneity in how citizens participate in politics. Using the 2020 American National Election Studies, I employ latent class analysis to identify five distinct repertoires of political participation: Voters, Civic Activists, Donors, All-Round Activists, and Indifferents. Greater affective polarization is associated with higher probabilities of membership in Donors and All-Round Activists, but lower probabilities of membership in Voters and Civic Activists, while showing little relationship with membership in Indifferents. Further analyses reveal that in-party favoritism and out-party animosity play different roles across participation repertoires. These findings challenge a uniformly mobilizing account of affective polarization and demonstrate that understanding its implications for political participation requires attention not only to whether citizens participate, but also to how they participate.
   </p>
 </details>
-
-<br>
 
 ### "Partisan Asymmetries in Inhibition of Racial versus Partisan Prejudice." (First Author; with Alexandra McCoy, Lauren O'Rourke, and Frank J. Gonzalez)
 
@@ -76,8 +76,6 @@ An enduring yet untested claim in the affective polarization literature is that 
   </p>
 </details>
 
-<br>
-
 ### "Strategic and Psychological Incentives for Legislators' Uncivil Messaging." (Solo-Authored)
 
 <span style="display: inline-block;
@@ -87,10 +85,8 @@ An enduring yet untested claim in the affective polarization literature is that 
              border-radius: 5px;
              font-size: 0.8em;
              font-weight: 500;">
-  Manuscript Ready
+  Manuscript Prepared
 </span>
-
-<br>
 
 ## Works in Progress
 
